@@ -57,5 +57,3 @@ function WeatherCard({ data }) {
     </div>
   );
 }
-
-export default WeatherCard;

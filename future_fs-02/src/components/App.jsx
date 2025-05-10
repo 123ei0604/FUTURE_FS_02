@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
-import SearchBar from './components/SearchBar';
-import WeatherCard from './components/WeatherCard';
-import FavoritesList from './components/FavoritesList';
+import SearchBar from './SearchBar';
+import WeatherCard from './WeatherCard';
+import FavoritesList from './FavoritesList';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify';
 
